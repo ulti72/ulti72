@@ -1,4 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/22766407/111679131-fdad1880-8846-11eb-9add-f0512bc7f3ea.jpg "Header")](https://cheems72.herokuapp.com/)
+[![Header](https://user-images.githubusercontent.com/22766407/111681774-a492b400-8849-11eb-9ba7-1605549957b3.png "Header")](https://cheems72.herokuapp.com/)
 
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
