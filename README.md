@@ -1,12 +1,13 @@
-[![Header](https://user-images.githubusercontent.com/22766407/111681774-a492b400-8849-11eb-9ba7-1605549957b3.png "Header")](https://cheems72.herokuapp.com/)
+[![Header](https://user-images.githubusercontent.com/22766407/111679131-fdad1880-8846-11eb-9add-f0512bc7f3ea.jpg "Header")](https://cheems72.herokuapp.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--
 **ulti72/ulti72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+![](https://img.shields.io/badge/CODE>-PYTHON-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 Here are some ideas to get you started:
