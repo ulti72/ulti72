@@ -14,7 +14,7 @@ You can find me on [![LinkedIN][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://user-images.githubusercontent.com/22766407/111731098-bea7b300-8898-11eb-800b-8f41165ee8e6.png (don't click me)
+[1.2]: https://user-images.githubusercontent.com/22766407/111731230-06c6d580-8899-11eb-84ee-3b450b22dc7c.png (don't click me)
 
 <!-- Links to your social media accounts -->
 
