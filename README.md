@@ -14,7 +14,7 @@ You can find me on [![LinkedIN][1.2]][1]
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (don't click me)
+[1.2]: https://user-images.githubusercontent.com/22766407/111730728-05e17400-8898-11eb-94c4-ceeb9d0a0e69.png (don't click me)
 
 <!-- Links to your social media accounts -->
 
